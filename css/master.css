@@ -16,7 +16,6 @@ header{
   background: #000;
   position: relative;
   height: 50px;
-  padding: 5px 0;
 }
 /* ENDOF HEADER:  */
 
@@ -32,12 +31,12 @@ header{
 #logo-etf-txt{
   color: #fff;
   display: inline-block;
-  font-size: 25px;
+  font-size: 200%;
   float: right;
   letter-spacing: 2px;
   padding: 0;
   line-height: 1;
-  margin-top: 6px;
+  margin-top: 10px;
 }
 /* Endof Logo:  */
 
@@ -66,6 +65,7 @@ header{
 }
 #menu-bar{
   font-size: 35px;
+  margin-top: 8px;
 }
 #menu-bar i{
   display: block;
