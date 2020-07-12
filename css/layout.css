@@ -17,6 +17,13 @@ and (max-width:9999999999999px){
     background: #5c5c5c;
   }
 
+  .r1img{
+    display: block;
+  }
+  .r11img{
+    display: block;
+  }
+
 }
 
 
@@ -39,6 +46,13 @@ and (max-width:1000px){
   }
 
   #sm-menu-list{
+    display: block;
+  }
+
+  .r1img{
+    display: block;
+  }
+  .r11img{
     display: block;
   }
 }
