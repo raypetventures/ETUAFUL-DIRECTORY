@@ -28,7 +28,7 @@ and (max-width:9999999999999px){
 
 
 
-@media screen and (min-width:400px)
+@media screen and (min-width:500px)
 and (max-width:1000px){
   body{
   }
@@ -60,7 +60,7 @@ and (max-width:1000px){
 
 
 @media screen and (min-width:0px)
-and (max-width:400px){
+and (max-width:500px){
   body{
     background-color: #000;
   }
